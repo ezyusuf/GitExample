@@ -1,0 +1,5 @@
+File statuses:
+* untracked
+* unstaged
+* staged
+* committed
